@@ -1,0 +1,13 @@
+C:\Users\Arti Pawde\dotnet_project\Delegate_Demo\src\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+C:\Users\Arti Pawde\dotnet_project\Delegate_Demo\src\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\Arti Pawde\dotnet_project\Delegate_Demo\src\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+C:\Users\Arti Pawde\dotnet_project\Delegate_Demo\src\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+C:\Users\Arti Pawde\dotnet_project\Delegate_Demo\src\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\Arti Pawde\dotnet_project\Delegate_Demo\src\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\Arti Pawde\dotnet_project\Delegate_Demo\src\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache
+C:\Users\Arti Pawde\dotnet_project\Delegate_Demo\src\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\Arti Pawde\dotnet_project\Delegate_Demo\src\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\Arti Pawde\dotnet_project\Delegate_Demo\src\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Arti Pawde\dotnet_project\Delegate_Demo\src\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\Arti Pawde\dotnet_project\Delegate_Demo\src\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\Arti Pawde\dotnet_project\Delegate_Demo\src\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache
